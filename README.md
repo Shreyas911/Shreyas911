@@ -39,9 +39,9 @@ journal = {Journal of Open Source Software} }</pre></details>
 ### About Me
 
 <p align="center">
-    <a href="https://shreyas911.github.io/"><img src="https://img.shields.io/badge/Homepage-8A2BE2.svg?style=flat-square&logo=Google-Home&logoColor=white" height="25" width="145"/></a>
+    <a href="https://shreyas911.github.io/"><img src="https://img.shields.io/badge/Homepage-8A2BE2.svg?style=flat-square&logo=Google-Home&logoColor=white" height="25" width="110"/></a>
     <br></br>    
-    <a href="https://github.com/Shreyas911/Shreyas911/blob/main/docs/ShreyasResume.pdf"><img src="https://img.shields.io/badge/Curriculum%20Vitae-005A2B.svg?style=flat-square&logo=read-the-docs&logoColor=white" height="25" width="145"/></a>
+    <a href="https://github.com/Shreyas911/Shreyas911/blob/main/docs/ShreyasResume.pdf"><img src="https://img.shields.io/badge/Resume-005A2B.svg?style=flat-square&logo=read-the-docs&logoColor=white" height="25" width="100"/></a>
     <br></br>
     <a href="https://scholar.google.com/citations?user=ouKOV-kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=google-scholar&logoColor=white" height="25" width="145"/></a>
     <br></br>
