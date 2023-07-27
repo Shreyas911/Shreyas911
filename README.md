@@ -63,19 +63,22 @@ journal = {Journal of Open Source Software} }</pre></details>
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-150458.svg?style=uflat-square&logo=pandas&logoColor=white" height="23"/></a>
     <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" height="23"/></a>
     <a href="https://scipy.org/"><img src="https://scipy.org/images/logo.svg" height="23"/></a>
-    <a href="https://matplotlib.org/"><img src="https://github.com/shanemcq18/shanemcq18/raw/main/img/matplotlib-logo.svg" height="23"/></a>
+    <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/matplotlib-logo.svg" height="23"/></a>
+    <a href="https://fenicsproject.org/"><img src="https://fenicsproject.org/pub/graphics/fenics_logo.svg" height="23"/></a>
     <a href="https://scikit-learn.org/stable/"><img src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/images/scikit-learn-logo-notext.png" height="23" width="40"/></a>
     <a href="https://pytorch.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="23" width="23"/></a>
     <a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="23" width="23"/></a>
     <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="23" width="23"/></a>
     <a href="https://cuda.juliagpu.org/stable/"><img src="https://raw.githubusercontent.com/JuliaGPU/CUDA.jl/master/docs/src/assets/logo.png" height="23" width="23"/></a>
     <a href="https://enzyme.mit.edu/julia/stable/"><img src="https://raw.githubusercontent.com/EnzymeAD/Enzyme.jl/main/docs/src/assets/logo.svg" height="23" width="23"/></a>
-    <a href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="23"/></a>
+    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/github.svg" height="23"/></a>
+    <a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/gitlab.svg" height="25"/></a>
+    <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/docker.svg" height="25"/></a>
     <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" height="25"/></a>
     <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/sublime-text.svg" height="25"/></a>
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25"/></a>
     <a href="https://www.overleaf.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg" height="25"/></a>
-    <a href="https://www.apple.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="25"/></a>
+    <a href="https://www.apple.com/"><img src="https://raw.githubusercontent.com/Shreyas911/Shreyas911/main/img/apple.svg" height="25"/></a>
     <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="25"/></a>
     <a href="https://www.microsoft.com/en-us/windows?r=1"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="25"/></a>
     <a href="https://www.office.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" height="25"/></a>
