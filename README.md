@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 
 ### Recent Research Articles
 
+- [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://arxiv.org/abs/2401.11952)
+<details><summary>BibTeX</summary><pre>
+@misc{gaikwad2024mitgcmad,
+title={MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade},
+author={Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Laurent Hascoet and Jean-Michel Campin and Helen Pillar and An Nguyen and Jan Hückelheim and Paul Hovland and Patrick Heimbach},
+year={2024},
+eprint={2401.11952},
+archivePrefix={arXiv},
+primaryClass={physics.ao-ph}}</pre></details>
+
 - [**SICOPOLIS-AD v2: tangent linear and adjoint modeling framework for ice sheet modeling enabled by automatic differentiation tool Tapenade**](https://doi.org/10.21105/joss.04679)
 <details><summary>BibTeX</summary><pre>
 @article{Gaikwad2023, 
