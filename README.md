@@ -33,6 +33,8 @@ journal = {Journal of Open Source Software} }</pre></details>
 
 ### News
 
+- I will be giving a talk on "Computational Science To Enable Digital Twins Of The Ocean" at minisymposium "Mathematical and computational foundations of predictive digital twins" at the [6th Annual Meeting of the SIAM Texas-Louisiana Section (TXLA23)](https://www.siam.org/conferences/cm/conference/txla23) to be held at the University of Louisiana at Lafayette, Lafayette, Louisiana.
+
 - I am going to Qeqertarsuaq, Greenland in August-Septemeber 2023 as part of the [ACDC/GRISO summer school 2023](https://griso.ucsd.edu/acdc-griso-summer-school-2023-past-and-future-changes-in-greenland-climate/)! We will be based at the Arctic Station there.
 </td><td align="center" valign="top" width="180">
 
