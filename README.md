@@ -67,7 +67,7 @@ journal = {Journal of Open Source Software} }</pre></details>
 
 ### News
 
-- Starting as a Deep Learning RnD Intern at [Ansys](https://www.ansys.com/), a global leader in multiphysics simulation software. I will be working at the intersection of deep learning, generative AI, and computational physics.
+- I will be working as a Deep Learning RnD Intern at [Ansys](https://www.ansys.com/) for Summer 2024, a global leader in multiphysics simulation software. I will be working at the intersection of deep learning, generative AI, and computational physics.
 
 - I will be giving a talk on "Computational Science To Enable Digital Twins Of The Ocean" at minisymposium "Mathematical and computational foundations of predictive digital twins" at the [6th Annual Meeting of the SIAM Texas-Louisiana Section (TXLA23)](https://www.siam.org/conferences/cm/conference/txla23) to be held at the University of Louisiana at Lafayette, Lafayette, Louisiana.
 
