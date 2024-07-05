@@ -19,6 +19,30 @@ Here are some ideas to get you started:
 
 ### Recent Research Articles
 
+- [**Earth system reanalysis in support of climate model improvements**](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0110.1/BAMS-D-24-0110.1.xml)
+<details><summary>BibTeX</summary><pre>
+@article { Earthsystemreanalysisinsupportofclimatemodelimprovements,
+      author = "Detlef Stammer and Daniel E. Amrhein and Magdalena Alonso Balmaseda and Laurent Bertino and Massimo Bonavita and Carlo Buontempo and Nico Caltabiano and Francois Counillon and Ian Fenty and Raffaele Ferrari and Yosuke Fujii and Shreyas Sunil Gaikwad and Pierre Gentine and Andrew Gettelman and Ganesh Gopalakrishnan and Patrick Heimbach and Hans Hersbach and Chris Hill and Shinya Kobayashi and Armin Köhl and Paul J. Kushner and Matthew Mazloff and Hisashi Nakamura and Stephen G. Penny and Laura Slivinski and Susann Tegtmeier and Laure Zanna",
+      title = "Earth system reanalysis in support of climate model improvements",
+      journal = "Bulletin of the American Meteorological Society",
+      year = "2024",
+      publisher = "American Meteorological Society",
+      address = "Boston MA, USA",
+      doi = "10.1175/BAMS-D-24-0110.1",
+      url = "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0110.1/BAMS-D-24-0110.1.xml"}</pre></details>
+
+- [**Profiling checkpointing schedules in adjoint ST-AD**](https://arxiv.org/abs/2405.15590)
+<details><summary>BibTeX</summary><pre>
+@misc{hascoët2024profilingcheckpointingschedulesadjoint,
+      title={Profiling checkpointing schedules in adjoint ST-AD}, 
+      author={Laurent Hascoët and Jean-Luc Bouchot and Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Jan Hückelheim},
+      year={2024},
+      eprint={2405.15590},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.15590}, 
+}</pre></details>
+
 - [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://arxiv.org/abs/2401.11952)
 <details><summary>BibTeX</summary><pre>
 @misc{gaikwad2024mitgcmad,
@@ -42,6 +66,8 @@ title = {SICOPOLIS-AD v2: tangent linear and adjoint modeling framework for ice 
 journal = {Journal of Open Source Software} }</pre></details>
 
 ### News
+
+Starting as a Deep Learning RnD Intern at [Ansys](https://www.ansys.com/), a global leader in multiphysics simulation software. I will be working at the intersection of deep learning, generative AI, and computational physics.
 
 - I will be giving a talk on "Computational Science To Enable Digital Twins Of The Ocean" at minisymposium "Mathematical and computational foundations of predictive digital twins" at the [6th Annual Meeting of the SIAM Texas-Louisiana Section (TXLA23)](https://www.siam.org/conferences/cm/conference/txla23) to be held at the University of Louisiana at Lafayette, Lafayette, Louisiana.
 
