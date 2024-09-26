@@ -19,6 +19,22 @@ Here are some ideas to get you started:
 
 ### Recent Research Articles
 
+- [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://arxiv.org/abs/2401.11952)
+<details><summary>BibTeX</summary><pre>
+@article{GAIKWAD2024107512,
+title = {MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade},
+journal = {Future Generation Computer Systems},
+pages = {107512},
+year = {2024},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2024.107512},
+url = {https://www.sciencedirect.com/science/article/pii/S0167739X2400476X},
+author = {Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Laurent Hascoet and Jean-Michel Campin and Helen Pillar and An Nguyen and Jan Hückelheim and Paul Hovland and Patrick Heimbach},
+keywords = {Automatic differentiation, Differentiable programming, Adjoints, Ocean modeling, Data assimilation, Climate science, MITgcm, Tapenade},
+abstract = {The Massachusetts Institute of Technology General Circulation Model (MITgcm) is widely used by the climate science community to simulate planetary atmosphere and ocean circulations. A defining feature of the MITgcm is that it has been developed to be compatible with an algorithmic differentiation (AD) tool, TAF, enabling the generation of tangent-linear and adjoint models. These provide gradient information which enables dynamics-based sensitivity and attribution studies, state and parameter estimation, and rigorous uncertainty quantification. Importantly, gradient information is essential for computing comprehensive sensitivities and performing efficient large-scale data assimilation, ensuring that observations collected from satellites and in-situ measuring instruments can be effectively used to optimize a large uncertain control space. As a result, the MITgcm forms the dynamical core of a key data assimilation product employed by the physical oceanography research community: Estimating the Circulation and Climate of the Ocean (ECCO) state estimate. Although MITgcm and ECCO are used extensively within the research community, the AD tool TAF is proprietary and hence inaccessible to a large proportion of these users. The new version 2 (MITgcm-AD v2) framework introduced here is based on the source-to-source AD tool Tapenade, which has recently been open-sourced. Another feature of Tapenade is that it stores required variables by default (instead of recomputing them) which simplifies the implementation of efficient, AD-compatible code. The framework has been integrated with the MITgcm model’s main branch and is now freely available.}
+}
+</pre></details>
+
 - [**Earth system reanalysis in support of climate model improvements**](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0110.1/BAMS-D-24-0110.1.xml)
 <details><summary>BibTeX</summary><pre>
 @article { Earthsystemreanalysisinsupportofclimatemodelimprovements,
@@ -42,16 +58,6 @@ Here are some ideas to get you started:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2405.15590}, 
 }</pre></details>
-
-- [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://arxiv.org/abs/2401.11952)
-<details><summary>BibTeX</summary><pre>
-@misc{gaikwad2024mitgcmad,
-title={MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade},
-author={Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Laurent Hascoet and Jean-Michel Campin and Helen Pillar and An Nguyen and Jan Hückelheim and Paul Hovland and Patrick Heimbach},
-year={2024},
-eprint={2401.11952},
-archivePrefix={arXiv},
-primaryClass={physics.ao-ph}}</pre></details>
 
 - [**SICOPOLIS-AD v2: tangent linear and adjoint modeling framework for ice sheet modeling enabled by automatic differentiation tool Tapenade**](https://doi.org/10.21105/joss.04679)
 <details><summary>BibTeX</summary><pre>
