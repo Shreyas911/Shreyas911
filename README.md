@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Recent Research Articles
 
-- [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://arxiv.org/abs/2401.11952)
+- [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://sciencedirect.com/science/article/pii/S0167739X2400476X?via%3Dihub)
 <details><summary>BibTeX</summary><pre>
 @article{GAIKWAD2024107512,
 title = {MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade},
