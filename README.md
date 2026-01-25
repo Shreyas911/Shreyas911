@@ -1,4 +1,6 @@
-I am a Ph.D. candidate in Computational Science, Engineering, and Mathematics at the Oden Institute for Computational Engineering and Sciences, University of Texas at Austin. My research primarily involves solving PDE-constrained inverse problems in the context of paleoclimate reconstruction over ice sheets. I am broadly interested in data assimilation under uncertainty, machine learning, optimization, and modeling systems.
+I am currently a Lead Software Engineer at Cadence Design Systems. I will be driving platform software and R&D for Hardware System Validation (HSV) on Cadence Palladium emulation platforms. To this end, I will be developing low-latency C++ software.
+
+I recently completed my Ph.D. in the Computational Science, Engineering, and Mathematics (CSEM) program at [The Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/), The University of Texas at Austin. I was advised by [Dr. Patrick Heimbach](https://heimbach.wordpress.com/) in the [CRIOS research group](https://crios-ut.github.io/). My research primarily involves solving PDE-constrained inverse problems in the context of paleoclimate reconstruction over ice sheets. I am broadly interested in software development, data assimilation under uncertainty, machine learning, optimization, and modeling systems.
 
 <!--
 **Shreyas911/Shreyas911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
