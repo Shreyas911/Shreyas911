@@ -21,6 +21,34 @@ Here are some ideas to get you started:
 
 ### Recent Research Articles
 
+- [**Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes**](https://eartharxiv.org/repository/view/14949)
+<details><summary>BibTeX</summary><pre>
+@article{Ishraque2026,
+  title = {Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes},
+  url = {http://dx.doi.org/10.31223/X5NR5S},
+  DOI = {10.31223/x5nr5s},
+  publisher = {California Digital Library (CDL)},
+  author = {Ishraque,  Fairuz and Shadab,  Mohammad Afzal and Shionalyn,  Kevin and Narayanan,  Neosha and Schaberg,  Meghan and Gaikwad,  Shreyas and Ezukanma,  Izuchukwu and Lauter,  Olga and Higgins,  John},
+  year = {2026},
+  month = Sept 
+}
+}</pre></details>
+
+- [**Profiling Checkpointing Schedules in Adjoint Source-Transformation AD**](https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10)
+<details><summary>BibTeX</summary><pre>
+@inbook{doi:10.1137/1.9781611979039.10,
+author = {Laurent Hascoët and Jean-Luc Bouchot and Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Jan Hückelheim},
+title = {Profiling Checkpointing Schedules in Adjoint Source-Transformation AD},
+booktitle = {Proceedings of the 2024 International Conference on Algorithmic Differentiation (AD)},
+chapter = {},
+pages = {137-149},
+doi = {10.1137/1.9781611979039.10},
+URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10},
+eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611979039.10},
+    abstract = { Abstract. Checkpointing is a cornerstone of data-flow reversal in adjoint algorithmic differentiation. It is a trade-off between storage and recomputation that can be applied at different levels, one of which being the call tree. We are looking for good placements of checkpoints onto the call tree of a given application, to reduce run time and memory footprint of its adjoint. There is no known optimal solution to this problem other than a combinatorial search on all placements. We propose a heuristics based on run-time profiling of the adjoint code. We describe an implementation of this profiling tool in an existing source-transformation automatic differentiation tool. We demonstrate the interest of this approach on test cases taken from the MITgcm ocean and atmospheric global circulation model. We discuss the limitations of our approach and propose directions to lift them. }
+}
+}</pre></details>
+
 - [**MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade**](https://sciencedirect.com/science/article/pii/S0167739X2400476X?via%3Dihub)
 <details><summary>BibTeX</summary><pre>
 @article{GAIKWAD2024107512,
@@ -48,18 +76,6 @@ abstract = {The Massachusetts Institute of Technology General Circulation Model 
       address = "Boston MA, USA",
       doi = "10.1175/BAMS-D-24-0110.1",
       url = "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0110.1/BAMS-D-24-0110.1.xml"}</pre></details>
-
-- [**Profiling checkpointing schedules in adjoint ST-AD**](https://arxiv.org/abs/2405.15590)
-<details><summary>BibTeX</summary><pre>
-@misc{hascoët2024profilingcheckpointingschedulesadjoint,
-      title={Profiling checkpointing schedules in adjoint ST-AD}, 
-      author={Laurent Hascoët and Jean-Luc Bouchot and Shreyas Sunil Gaikwad and Sri Hari Krishna Narayanan and Jan Hückelheim},
-      year={2024},
-      eprint={2405.15590},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2405.15590}, 
-}</pre></details>
 
 - [**SICOPOLIS-AD v2: tangent linear and adjoint modeling framework for ice sheet modeling enabled by automatic differentiation tool Tapenade**](https://doi.org/10.21105/joss.04679)
 <details><summary>BibTeX</summary><pre>
